@@ -25,7 +25,7 @@ SECRET_KEY = '^qellnat3s=47z-29wj-rl!r*t^(8e72!*&-j$=i7yw6s$+7e$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['scribere.liberat.ca','scribere.liberat.xyz']
+ALLOWED_HOSTS = ['scribere.liberat.ca','scribere.liberat.xyz','liberat.pythonanywhere.com']
 
 
 # Application definition
